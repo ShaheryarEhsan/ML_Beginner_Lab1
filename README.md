@@ -1,3 +1,3 @@
-# ML_Beginner_Lab1
+# ML_Labs
 
-A Machine Learning Lab where a dataset is used to calculate Root Mean Squared error of a trained model. 
+My Machine Learning Labs from a course which I attended in university experimenting with different concepts that I learned throughout the semester.
